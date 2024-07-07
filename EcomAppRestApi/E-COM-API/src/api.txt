@@ -1,0 +1,18 @@
+//Products
+Get Products.
+Add Products.
+Get a Product.
+Rate A Product.
+Filter
+
+SWagger 2.0
+ //"swagger":"2.0"//for swagger 2.0 for swagger 3.0 u need to use openapi:3.0.0;
+ in place of server:   // "host": "localhost:4200", for again 2.0
+in place of components:
+//     "securityDefinitions":{
+// "JWT":{
+//     "in":"header",
+//     "name":"Authorization",
+//     "type":"apiKey"
+// }
+//     }, for 2.0 swagger
